@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Jebas-Sinthiya
+- 👀 I’m interested in Data. I love learning new skills 
+- 🌱 I’m currently working as a Business Analyst...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to fint me [LinkedIn]([url](https://www.linkedin.com/in/sinthiya-emmanuel/))
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Jebas-Sinthiya/Jebas-Sinthiya is 
+a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
